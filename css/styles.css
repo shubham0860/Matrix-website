@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+  }
+
+p{
+  font-size: 20px;
+
+  color: white;
+}
+
+
+
+#header {
+  margin: 0px;
+    height: 15vh;
+    background-color: #105652;
+   }
+
+
+  #header .head {
+    font-size: 28px;
+    margin: auto;
+    padding: 3vh;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+
+  #header .head a {
+    color: white;
+  }
+
+  #header .btn {
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    background-color:#88E0EF;
+  }
+  #header .btn:hover {
+
+    background-color:white;
+  }
+
+
+  #titlepluslogo .title-and-logo {
+    padding-top: 72px;
+    position: relative;
+    text-align: center;
+  }
+
+  #titlepluslogo h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: white;
+  }
+
+
+
+  #titlepluslogo p{
+    color: white;
+    font-size: 20px;
+  }
+  #titlepluslogo a{
+    align-content: center;
+    color:white;
+  }
+  #titlepluslogo img{
+    width: 15%; height: 15% ;margin-left: auto;margin-right: auto; display: block;
+  }
+
+
+  #footer {
+    background: black;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding: 30px 0;
+  }
+
+  #footer h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+    position: relative;
+    font-family: 'Nova Round', cursive;
+    padding: 0;
+    margin: 0 0 15px 0;
+  }
+
+  #footer p {
+    font-size: 15;
+    font-style: italic;
+    padding: 0;
+    margin: 0 0 40px 0;
+  }
+  #footer .social-links a{
+    font-size: 9px;
+    display: inline-block;
+    padding: 4px 0;
+    margin-right: 4px;
+    text-align: center;
+    border-radius: 50%;
+  }
+
+  #footer .social-links {
+    margin: 0 0 40px 0;
+  }
+
+
+
+  #footer .copyright {
+    margin: 0 0 5px 0;
+  }
